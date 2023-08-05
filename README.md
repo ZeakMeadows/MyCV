@@ -20,10 +20,10 @@
 
 *My personal CV*
 
-## 3. Table of Contents
+## 3. Files
 
-- index
-- stylesheet
+- index.html
+- stylesheet.css
 
 ## 4. Installation
 
@@ -39,8 +39,8 @@ This is my personal CV, intended to showcase my skills and experience.
 
 To run the CV, simply open the `index.html` file in your web browser.
 
-**Note:** Make sure that when running the `index.html` file and the `style.css`, they are both placed in the same folder so that the `style.css` file gets applied.
+**Note:** Make sure that when running the `index.html` file and the `stylesheet.css`, they are both placed in the same folder so that the `stylesheet.css` file gets applied.
 
 ## 6. Credits
 
-Credit for this project goes to *[ZeakMeadows](https://github.com/ZeakMeadows)*. Thank you for your contributions!
+Credit for this project goes to *[ZeakMeadows](https://github.com/ZeakMeadows)*.
